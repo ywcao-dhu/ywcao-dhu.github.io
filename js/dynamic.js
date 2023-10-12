@@ -5,7 +5,7 @@ let rearchpros=[
     "transfer learning"
 ]
 let rearch=document.getElementById("re1");
-let publishlist=document.getElementById('published')
+let publishlist=document.getElementById('publishes')
 let essayes=[
     `Y. Cao, S. Maghsudi, T. Ohtsuki and T. Q. S. Quek, "Mobility-Aware Routing and Caching in Small Cell Networks using Federated Learning," in IEEE Transactions on Communications.`,
     `Y. Cao, T. Ohtsuki, S. Maghsudi and T. Q. S. Quek, “Deep Learning and Image Super-Resolution-Guided Beam and Power Allocation for mmWave Networks,” in IEEE Transactions Vehicular Communications, to appear, 2023. （IF: 6.24）`,
