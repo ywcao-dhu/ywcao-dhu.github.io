@@ -1,7 +1,7 @@
 // for liuguijun to fill the index.html parts:teammates and rearch project 
 let rearchpros=[
-    'Congratulations! Our manuscript has been accepted for publication in the IEEE TCOM. 
-[J1] Y. Cao, S. Maghsudi, T. Ohtsuki and T. Q. S. Quek, "Mobility-Aware Routing and Caching in Small Cell Networks using Federated Learning," in IEEE Transactions on Communications.',
+    `Congratulations! Our manuscript has been accepted for publication in the IEEE TCOM. 
+[J1] Y. Cao, S. Maghsudi, T. Ohtsuki and T. Q. S. Quek, "Mobility-Aware Routing and Caching in Small Cell Networks using Federated Learning," in IEEE Transactions on Communications.`,
     "mmwave",
     "transfer learning"
 ]
