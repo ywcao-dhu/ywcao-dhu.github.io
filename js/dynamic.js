@@ -17,7 +17,7 @@ let essayes=[
 	"专利：蒋学芹，曹誉文等， 一种MIMO窃听信道下基于反馈的保密通信方法，授权号：201710127779.7。",
 ]
 essayes.forEach((val,index,array)=>{
-    
+    publishlist.innerHTML+=`({index+1}) {val}<br/>`
 }
 
 rearchpros.forEach((val,index,array)=>{
