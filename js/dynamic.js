@@ -17,7 +17,7 @@ let essayes=[
 ]
 essayes.forEach((val,index,array)=>{
     publishlist.innerHTML+=`({index+1}) {val}<br/>`
-}
+})
 
 rearchpros.forEach((val,index,array)=>{
     if(index%2==0){
