@@ -1,9 +1,9 @@
 // for liuguijun to fill the index.html parts:teammates and rearch project 
 let rearchpros=[
-    'Massive MIMO',
-    'Massive MIMO',
+    "Congratulations! Our manuscript has been accepted for publication in the IEEE TCOM. 
+[J1] Y. Cao, S. Maghsudi, T. Ohtsuki and T. Q. S. Quek, "Mobility-Aware Routing and Caching in Small Cell Networks using Federated Learning," in IEEE Transactions on Communications."
     "mmwave",
-    "ml"
+    "transfer learning"
 ]
 let rearch=document.getElementById("re1");
 
