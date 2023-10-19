@@ -8,7 +8,7 @@ let rearchpros=[
 let rearch=document.getElementById("re1");
 let publishlist=document.getElementById('publishes')
 let essayes=[
-    `Y. Cao, S. Maghsudi, T. Ohtsuki and T. Q. S. Quek, "Mobility-Aware Routing and Caching in Small Cell Networks using Federated Learning," in IEEE Transactions on Communications (Accepted), 2023.`
+    `Y. Cao, S. Maghsudi, T. Ohtsuki and T. Q. S. Quek, "Mobility-Aware Routing and Caching in Small Cell Networks using Federated Learning," in IEEE Transactions on Communications (Accepted), 2023.`,
     `Y. Cao, T. Ohtsuki, S. Maghsudi and T. Q. S. Quek, “Deep Learning and Image Super-Resolution-Guided Beam and Power Allocation for mmWave Networks,” in IEEE Transactions Vehicular Communications, to appear, 2023. （IF: 6.24）`,
     `H. Echigo, Y. Cao, M. Bouazizi and T. Ohtsuki, "A Deep Learning-Based Low Overhead Beam Selection in mmWave Communications," in IEEE Transactions on Vehicular Technology, vol. 70, no. 1, pp. 682-691, Jan. 2021, https://ieeexplore.ieee.org/document/9314253/. （Corresponding author, IF: 6.24）`,
     `Y. Cao, T. Ohtsuki and T. Q. S. Quek, “Dual-Ascent Inspired Transmit Precoding for Evolving Multiple-Access Spatial Modulation,” in IEEE Transactions on Communications, vol. 68, no. 11, pp. 6945-6961, Nov. 2020, https://ieeexplore.ieee.org/document/9153033/. （IF: 6.17）`,
