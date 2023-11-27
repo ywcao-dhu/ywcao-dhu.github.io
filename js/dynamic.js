@@ -26,7 +26,7 @@ rearchpros.forEach((val,index,array)=>{
         <div class="row">
         <div class="col-md-6">
           <div class="cc-porfolio-image img-raised aos-init aos-animate" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-                <div style="background-image: url('images/demo2.jpg');width: 100%;height: 40vh;background-size: cover;padding:2vw;">
+                <div style="background-image: url('images/demo2.jpg');width: 100%;height: 40vh;background-size: cover;padding-left:1.2vw;padding-right:1.2vw;">
                   <div class="h4 title text-white text-center">Recent Project</div>
                   <p class="title text-white">&nbsp;&nbsp;&nbsp;&nbsp;${val}</p>
                 </div>
@@ -34,7 +34,7 @@ rearchpros.forEach((val,index,array)=>{
         </div>
       <div class="col-md-6">
       <div class="cc-porfolio-image img-raised aos-init aos-animate" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-            <div style="background-image: url('images/demo2.jpg');width: 100%;height: 40vh;background-size: cover;padding:2vw;">
+            <div style="background-image: url('images/demo2.jpg');width: 100%;height: 40vh;background-size: cover;padding-left:1vw;padding-right:1.2vw;">
               <div class="h4 title text-white text-center">Recent Project</div>
               <p class="title text-white">&nbsp;&nbsp;&nbsp;&nbsp;${array[index+1]}</p>
             </div>
